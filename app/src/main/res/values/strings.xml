@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IdealizeTemplate</string>
+
+    <string name="title_activity_sub_category">SubCategoryActivity</string>
+    <string name="ok">Ok</string>
+    <string name="error_connection">Connection Error</string>
+    <string name="progress_dialog_loading">Loading</string>
+    <string name="error_server">Server Error</string>
+    <string name="error_parse">Parsing Error</string>
+    <string name="follow">Follow</string>
+    <string name="followed">Followed</string>
+</resources>
